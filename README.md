@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pisnap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Pyhton
+- 🌱 I’m currently learning Python
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me nafidz420@gmail.com
 
 <!---
